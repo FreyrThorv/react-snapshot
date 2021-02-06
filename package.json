@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "lib/index.js",
 	"repository": "freyrthorv/react-snapshot",
+	"types": "./src/index.d.ts",
 	"bin": {
 		"react-snapshot": "./bin/react-snapshot.js"
 	},
