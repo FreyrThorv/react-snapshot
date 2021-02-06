@@ -1,6 +1,6 @@
 {
 	"name": "@freyrthorv/react-snapshot",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"description": "",
 	"main": "lib/index.js",
 	"repository": "freyrthorv/react-snapshot",

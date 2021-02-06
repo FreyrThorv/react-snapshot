@@ -13,7 +13,7 @@ import {
 	ReactPortal,
 } from "react";
 
-export const render: Renderer;
+export const render: Render;
 
 export interface Render {
 	// Deprecated(render): The return value is deprecated.
